@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656685909094",
+    "project_id": "parkinme2"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656685909094:android:56f8546649b9d999",
+        "android_client_info": {
+          "package_name": "kuro.android.com.parkinme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656685909094-1f70siqrebute3a3i36qolrgqqqajk5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kuro.android.com.parkinme2",
+            "certificate_hash": "932642b17b775e70adb6642421baf4a4cd2a64ed"
+          }
+        },
+        {
+          "client_id": "656685909094-e4prn2nf464lvbafla39vqdmoba7lsb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8QwKcHr9yhuH35x9f-Nuvyt-j4w8lwcE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
